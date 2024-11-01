@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+main{
+    background-color:  #630e6f ;
+}
+*{
+    margin: 0;
+}
+header, footer{
+    background-color:   #20043d  ;
+    height: 8vh;
+    color: #dab5cb;
+    display: flex;
+    align-items: center;
+}
